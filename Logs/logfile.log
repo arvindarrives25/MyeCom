@@ -9,3 +9,10 @@
 2021-02-11 19:34:50,626 :INFO : TestLogin :Actual welcome message matches expected welcome message, hence Test case passed
 2021-02-14 21:22:37,512 :INFO : TestLogin :Actual title matches expected title, hence Test case passed
 2021-02-14 21:22:37,578 :INFO : TestLogin :Actual welcome message matches expected welcome message, hence Test case passed
+2021-02-15 00:37:19,450 :INFO : TestLogin :Actual title matches expected title, hence Test case passed
+2021-02-15 00:37:19,501 :INFO : TestLogin :Actual welcome message matches expected welcome message, hence Test case passed
+2021-02-15 00:37:50,223 :INFO : TestHomePage :Expected title is same as Actual Title, hence test case passed
+2021-02-15 00:37:50,278 :INFO : TestHomePage :Expected logged in user is same as Actual logged in user, hence passed
+2021-02-15 00:37:50,353 :INFO : TestHomePage :Logout link is present , hence Test case passed
+2021-02-15 00:37:57,282 :INFO : TestLogin :Actual title matches expected title, hence Test case passed
+2021-02-15 00:37:57,341 :INFO : TestLogin :Actual welcome message matches expected welcome message, hence Test case passed
