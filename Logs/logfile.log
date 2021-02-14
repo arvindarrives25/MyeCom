@@ -16,3 +16,5 @@
 2021-02-15 00:37:50,353 :INFO : TestHomePage :Logout link is present , hence Test case passed
 2021-02-15 00:37:57,282 :INFO : TestLogin :Actual title matches expected title, hence Test case passed
 2021-02-15 00:37:57,341 :INFO : TestLogin :Actual welcome message matches expected welcome message, hence Test case passed
+2021-02-15 00:56:45,903 :INFO : TestLogin :Actual title matches expected title, hence Test case passed
+2021-02-15 00:56:45,947 :INFO : TestLogin :Actual welcome message matches expected welcome message, hence Test case passed
