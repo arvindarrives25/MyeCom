@@ -1,0 +1,2 @@
+2021-02-15 17:41:52,759 :INFO : TestLogin :Actual title matches expected title, hence Test case passed
+2021-02-15 17:41:52,825 :INFO : TestLogin :Actual welcome message matches expected welcome message, hence Test case passed
